@@ -37,7 +37,7 @@ body{
         color:hsl(220, 15%, 55%);
     }
 }
-@media screen and (min-width:376px) and (max-width:1440px){
+@media screen and (min-width:376px){
     .bg-container{
         background-color: hsl(212, 45%, 89%);
         height: 100vh;
